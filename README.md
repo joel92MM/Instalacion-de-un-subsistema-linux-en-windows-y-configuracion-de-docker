@@ -16,7 +16,7 @@
 
 ## 6. Instalación de la distribución de Linux que quiera ##
 
-## 7. Instalación de docker##
+## 7. Instalación de docker ##
 
 <hr>
 
