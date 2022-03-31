@@ -80,6 +80,7 @@ Se nos abrira una ventana en la que tendremos que poner nuestro usuario y contra
 ![image](https://user-images.githubusercontent.com/73592097/161037262-1f712667-ad70-4882-aa5d-147e2ad71628.png)
 
 **7. Instalación de docker**
+
 Ahora vamos a descargarnos docker desde la pagina [oficial](https://www.docker.com/get-started/)
 
 Para ello nos descargaremos docker Desktop para windows y ejecutamos el instalador una vez descargada la aplicación, y seguimos la guia de instalación de docker
