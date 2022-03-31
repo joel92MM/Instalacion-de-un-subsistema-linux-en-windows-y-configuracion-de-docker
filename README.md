@@ -137,6 +137,13 @@ Esto nos llevará un tiempo
 
 ![image](https://user-images.githubusercontent.com/73592097/161043177-ef7bcd84-6037-4a0a-9de3-457f6ec4684d.png)
 
+Ahora nos vamos al navegador e introducimos la siguiente direccion
+
+![image](https://user-images.githubusercontent.com/73592097/161051832-ed878073-f90c-47e7-bfe4-1e97b9d169b1.png)
+
+Y se nos muestra laravel instalado
+
+
 
 
 
