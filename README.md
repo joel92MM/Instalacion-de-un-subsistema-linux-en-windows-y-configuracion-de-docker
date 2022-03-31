@@ -16,7 +16,7 @@
 
 ## 6. Instalación de la distribución de Linux que quiera ##
 
-####
+## 7. Instalación de docker##
 
 <hr>
 
@@ -75,6 +75,48 @@ En la página de la distribución seleccionamos -> obtener
 Se nos abrira una ventana en la que tendremos que poner nuestro usuario y contraseña.
 
 ![image](https://user-images.githubusercontent.com/73592097/161037262-1f712667-ad70-4882-aa5d-147e2ad71628.png)
+
+**7. Instalación de docker**
+Ahora vamos a descargarnos docker desde la pagina [oficial](https://www.docker.com/get-started/)
+
+Para ello nos descargaremos docker Desktop para windows y ejecutamos el instalador una vez descargada la aplicación, y seguimos la guia de instalación de docker
+
+Una vez instalado reiniciamos el sistema
+
+
+Ahora iniciamos docker y nos aparecerá una ventana similar a la siguiente
+
+![image](https://user-images.githubusercontent.com/73592097/161039316-f692f9b5-68e0-45f3-b4f8-96c8096f3e9c.png)
+
+Nos vamos a configuración que se encuentra en la barra azul
+
+![image](https://user-images.githubusercontent.com/73592097/161039440-3bf96782-f684-4d5c-9a26-d1125855f7db.png)
+
+Nos aparecerá la siguiente ventana 
+![image](https://user-images.githubusercontent.com/73592097/161039537-84eeb99d-c4e9-4161-8899-c73ce18ee294.png)
+
+Iremos a recursos y posteriormente a la opcion WSL INTEGRATION 
+
+![image](https://user-images.githubusercontent.com/73592097/161039690-9f8145ab-ccc2-461f-a0e5-1f2278131a65.png)
+
+Habilitaremnos la distribuciñon que tengamos instalada en mi caso es Ubuntu
+
+![image](https://user-images.githubusercontent.com/73592097/161039818-23e4c0a4-4b07-4032-8b6f-f89005d170df.png)
+
+En la terminal de la distribucion de ubuntu, nos aseguraremos que tenemos docker instalado co nel siguiente comando
+
+![image](https://user-images.githubusercontent.com/73592097/161040133-63410695-357e-4529-889d-b5def469b3c4.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
