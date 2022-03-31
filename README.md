@@ -18,6 +18,9 @@
 
 ## 7. Instalación de docker ##
 
+## 8. Instalación de la imagen de Laravel en docker ##
+
+
 <hr>
 
 **1. Requisitos para la instalación**
@@ -106,6 +109,34 @@ Habilitaremnos la distribuciñon que tengamos instalada en mi caso es Ubuntu
 En la terminal de la distribucion de ubuntu, nos aseguraremos que tenemos docker instalado co nel siguiente comando
 
 ![image](https://user-images.githubusercontent.com/73592097/161040133-63410695-357e-4529-889d-b5def469b3c4.png)
+
+
+**8. Instalación de la imagen de Laravel en docker**
+
+Para la instalación de la imagen de Laravel en docker introduciremos el siguiente comando que se nos descargara la imagen en docker, el comando es
+
+> curl -s https://laravel.build/helloworld | bash
+
+![image](https://user-images.githubusercontent.com/73592097/161041619-c7df69df-c756-4b9e-80a5-f444f33567cc.png)
+
+Nos aparecera el proyecto creado por laravel
+
+![image](https://user-images.githubusercontent.com/73592097/161041916-2d25d568-8d44-4530-9c77-dfd2d142de4b.png)
+
+Entramos en la carpeta del proyecto
+
+A continuación lanzamos el proyecto con el comando
+
+> cd helloword/
+
+> ./vendor/bin/sail up
+
+![image](https://user-images.githubusercontent.com/73592097/161042945-229b07e8-1a40-416f-9fef-9029287dd25e.png)
+
+Esto nos llevará un tiempo 
+
+![image](https://user-images.githubusercontent.com/73592097/161043177-ef7bcd84-6037-4a0a-9de3-457f6ec4684d.png)
+
 
 
 
